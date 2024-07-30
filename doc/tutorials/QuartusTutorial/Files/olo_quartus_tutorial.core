@@ -32,6 +32,6 @@ targets:
 
 provider:
   name    : github
-  user    : open-logic
-  repo    : open-logic
-  version : fusesoc-test
+  user    : obruendl
+  repo    : fuesesoc_test
+  version : 0.0.1
